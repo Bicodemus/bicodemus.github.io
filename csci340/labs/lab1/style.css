@@ -1,0 +1,35 @@
+body {
+  background-color: #fffff2
+}
+
+header h1 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header nav {
+  font-family: 'Montserrat', sans-serif;
+}
+hr {
+  border: 1px solid black;
+}
+
+.jumbotron h3 {
+  font-family: 'Dosis', sans-serif;
+}
+
+.jumbotron p {
+  font-family: 'Exo', sans-serif;
+}
+
+section h4,
+section h3{
+  font-family: "Exo", sans-serif;
+}
+
+footer ul{
+  list-style: none;
+}
+
+footer {
+  margin-top: 20px;
+}
