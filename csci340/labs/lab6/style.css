@@ -6,30 +6,16 @@ h1 {
   font-family: 'Montserrat', sans-serif;
 }
 
-header nav {
-  font-family: 'Montserrat', sans-serif;
-}
-hr {
-  border: 1px solid black;
-}
-
-h3 {
-  font-family: 'Dosis', sans-serif;
-}
-
 p {
   font-family: 'Exo', sans-serif;
+  text-align: center;
+  font-size: large;
 }
 
-section h4,
-section h3{
-  font-family: "Exo", sans-serif;
+#pic {
+  height: 400px;
 }
 
-footer ul{
-  list-style: none;
-}
-
-footer {
-  margin-top: 20px;
+#button {
+  font-size: large;
 }
